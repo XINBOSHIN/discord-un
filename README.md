@@ -59,9 +59,6 @@ sc delete WinDivert
 > [!WARNING]
 > Если вы открываете Issue *(в этом репозитории)* с проблемой в использовании на **Linux**, то, как бы это не звучало, это ошибка. Все вопросы по работе на Linux нужно открывать в **[ОРИГИНАЛЬНОМ](https://github.com/bol-van/zapret/)** репозитории. Следовательно, задавайте вопросы [тут](https://github.com/XINBOSHIN/discord-un/issues/).
 
-## Support
 
-Вы можете поддержать проект, поставив :star: (сверху справа репозитория)!  
-Также, вы можете поддержать разработчика [оригинального репозитория zapret](https://github.com/bol-van/zapret/issues/590) тут - https://github.com/bol-van/zapret/issues/590
 
 
