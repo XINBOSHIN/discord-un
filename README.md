@@ -1,5 +1,3 @@
-# discord-un
-
 # Discord Unlock XNBO (обход блокировки Discord'а и Youtube'а)
 
 > [!NOTE]  
