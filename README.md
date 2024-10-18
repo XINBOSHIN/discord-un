@@ -64,11 +64,4 @@ sc delete WinDivert
 Вы можете поддержать проект, поставив :star: (сверху справа репозитория)!  
 Также, вы можете поддержать разработчика [оригинального репозитория zapret](https://github.com/bol-van/zapret/issues/590) тут - https://github.com/bol-van/zapret/issues/590
 
-<a href="https://star-history.com/#Flowseal/zapret-discord-youtube&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
- </picture>
-</a>
 
